@@ -1,4 +1,4 @@
-# Smart Result & Transcript Viewer System
+# Result & Transcript Viewer
 
 A Flutter and Django-based mobile application for viewing student results and transcripts.
 
